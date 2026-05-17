@@ -43,6 +43,19 @@ O **Google ATM** é um aplicativo mobile desenvolvido em React Native e Expo que
 
 ---
 
+## Como rodar projeto
+Para rodar o projeto, basta **seguir** os seguintes passos:
+* Faça o **download** do projeto ou faça um git clone com a **URL** do projeto e extraia o projeto zipado.
+* Abra o Expo Snack e apague **todos os arquivos que foram criados**.
+* Como o App.js e o package.json **não podem ser apagados**, abra os arquivos com o mesmo nome que estão no projeto zipado e cole o código presente nos dois respectivos arquivos do Expo Snack.
+* Clique nos **três pontinhos** ao lado dos icones de criar arquivo e criar pasta.
+* Ao clicar, selecione a opção de **import files**.
+* Importe os arquivos do projeto descompactado (com exceção do App.js, package.json, .gitignore e index.ts) para o ambiente do **Snack**.
+* **Crie as pastas** que estão no projeto dentro do Expo Snack e importe os arquivos das respectivas pastas, que são: hooks, (tabs) e assets. 
+* **Pronto!** Agora só observar com os simuladores o projeto. **Observação**: Não funciona via Web por conta dos sensores e afins.
+
+---
+
 ## Integrantes da Dupla
 * Nome: **Bruno Souza Guerra**
 * Nome: **Giovanna Cintra Santana**
